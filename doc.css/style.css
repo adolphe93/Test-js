@@ -1,0 +1,41 @@
+.bloc1 div {
+}
+
+
+.col-size {
+    width: 200px;
+    padding: 200px 0 0 0;
+    background-image: url("/download-1.jpg");
+    border: solid;
+}
+
+.coll-size {
+    width: 200px;
+    padding: 200px 0 0 0;
+    background: rgb(0, 195, 255);
+}
+
+.vert p {
+	font-size: 24px;
+	color: #fff;
+	padding-left: 30px;
+	padding-right: 30px;
+    margin-top: -150px;
+}
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(220, 0, 0, 1);
+    text-align: center;
+}
+
+
+
+
+
